@@ -123,7 +123,7 @@ h1 + ul + p {
 <!-- The unordered list immediately after the h1 will be formatted on a single
 line. It is intended to be used for contact details -->
 <ul>
-<li><a href="&#109;&#97;&#105;&#108;&#116;&#111;&#58;&#114;&#105;&#99;&#104;&#97;&#114;&#100;&#46;&#104;&#101;&#110;&#100;&#114;&#105;&#107;&#115;&#64;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;">&#114;&#105;&#99;&#104;&#97;&#114;&#100;&#46;&#104;&#101;&#110;&#100;&#114;&#105;&#107;&#115;&#64;&#109;&#97;&#105;&#108;&#46;&#99;&#111;&#109;</a></li>
+<li><a href="mailto:yoni@atidcollege.co.il">yoni@atidcollege.co.il</a></li>
 <li>(912) 555-4321</li>
 <li><a href="https://atidcollege.co.il">https://atidcollege.co.il</a></li>
 <li>Eilat, Israel</li>
